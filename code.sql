@@ -7,8 +7,6 @@
 -- v1.0.0
 -- @tavo962
 
--- 
-
 DROP DATABASE IF EXISTS umbrella;
 
 -- 
