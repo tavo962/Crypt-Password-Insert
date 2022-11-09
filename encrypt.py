@@ -1,5 +1,5 @@
 import crypt
 
-hashed = crypt.crypt( "#Gatito123" )
+hashed = crypt.crypt( "#ricopollo" )
 
 print( hashed )
