@@ -29,6 +29,8 @@ CREATE TABLE users(
 	updated_at DATETIME NOT NULL,
 	deleted_at DATETIME NULL,
 
+	UNIQUE( email ),
+
 	PRIMARY KEY( id )
 )
 ENGINE = INNODB
